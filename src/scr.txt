@@ -1,4 +1,4 @@
 int main()
-{
+{	// the output result is "hello world!"
 	printf("hello world!");
 }
