@@ -2,4 +2,5 @@ int main()
 {	// the output result is "hello world!"
 	// build a local branch and push it into remote
 	printf("hello world!");
+	printf("AAAAAAAAAAAA");
 }
